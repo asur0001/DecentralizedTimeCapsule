@@ -42,5 +42,5 @@ Our vision is to create a permanent, decentralized repository for human memories
 - **Enterprise Solutions**: Develop enterprise-grade features for institutional use cases
 
 ## Contract Details
+0xdaBcDf6cD7C25581043e622edC4Ed31b609Ff61f
 
-*[This section is reserved for manual completion]*
